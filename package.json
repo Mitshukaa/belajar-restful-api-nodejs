@@ -1,6 +1,7 @@
 {
   "name": "belajar-nodejs-restful-api",
   "version": "1.0.0",
+  "type": "module",
   "description": "Belajar NodeJs RESTful API",
   "main": "src/main.js",
   "scripts": {
